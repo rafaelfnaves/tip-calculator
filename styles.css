@@ -62,13 +62,14 @@ body {
     display: block;
     margin: 30px auto;
     background: var(--primary-color);
+    border: var(--primary-color);
     border-radius: 5px;
     width: 200px;
     height: 50px;
     font-size: 17px;
     color: #f7f7f7;
     transition: .5s;
-    border: var(--primary-color);
+    
 }
 .formSubmit:hover {
     background: #00240e;
